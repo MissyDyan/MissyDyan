@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MissyDyan
 - 👀 I’m interested in learning to code and everything about it. 
 - 🌱 I’m currently learning software engineering at Flatiron.
-- 💞️ I’m looking to collaborate on with others. 
+- 💞️ I’m looking to collaborate with others. 
 - 📫 How to reach me dianenguyen@gmail.com
 
 <!---
